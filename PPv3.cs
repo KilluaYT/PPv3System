@@ -79,7 +79,7 @@ namespace PPv3_System
                 index++;
             }
 
-            LastObjectTime = CircleTime[CircleTime.Count + 1];
+       //     LastObjectTime = CircleTime[CircleTime.Count];
 
         }
     }
